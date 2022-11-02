@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar-brand {
+    width: 5%;
+}
+.page {
+    font-family: 'Baskerville';
+    background-color: #fdf5e6;
+}
+img {
+  width: 100%;
+}
+.nav-item {
+    font-family: 'Baskerville';
+}
+.spacer {
+    padding: 20px;
+}
+.container-fluid {
+    margin: 20px;
+}
+.dad {
+    background-color: #fdf5e6;
+}
+.header-container {
+    display: flex;
+    padding: 20px;
+    background-color: #fdf5e6;
+}
+.header {
+    font-family: 'Baskerville';
+    font-size: 5em;
+    text-align: center;
+    width: 100%;
+}
+.main-info {
+    background-color: #FAEBD7;
+    padding: 20px;
+    color: #80461b;
+}
+.paragraph {
+    margin: 50px 200px 50px 200px;
+    font-size: 2em;
+}
+.profile {
+    display: flex;
+}
+.profile-pic {
+    width: 50%;
+}
+.profile-body {
+    background-color: #fdf5e6;
+    width: 50%;
+}
+.name {
+    margin-top: 10px;
+    text-align: center;
+    color: #80461b;
+    font-size: 2em;
+}
+h1 {
+    font-size: 2em;
+}
+.bio {
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+.extra {
+    margin-top: 30px;
+}
+.hit-ups {
+    margin-top: 40px;
+    justify: center;
+    width: 30%;
+}
+/*.review-container {*/
+/*    margin-left: 5px;*/
+/*}*/
